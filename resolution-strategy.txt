@@ -3,8 +3,6 @@ STRATEGY
 Plan Resolution 1:
 - blablablaba
 - blbalbalblabal
-- blablalablablab
-- wleowleowleowleo
 
 Plan Resolution 2:
 - asdaad
